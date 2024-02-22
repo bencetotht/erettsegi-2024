@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "68df1044d8ea4817",
+    "type": "split",
+    "children": [
+      {
+        "id": "db40f308884d2bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0bfae27833ee38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tételek - Történelem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8034eaee4f29a1b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef14e480187a65c2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e7cc487085175cb9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "257afc6f537dd09d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c517b7d6b396f2f8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cfa1afb15108b7b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "15e204efd9b8a924",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Tételek - Történelem.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "206516658bf3a4fd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Tételek - Történelem.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "39f076179e9ea921",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Tételek - Történelem.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef14e480187a65c2",
+  "lastOpenFiles": [
+    "történelem/9. Párizs környéki békék - Trianon.md",
+    "történelem/12. 1848-49es forradalom és szabadságharc.md",
+    "Tételek - Történelem.md",
+    "történelem/18. Az első világháború.md"
+  ]
+}
