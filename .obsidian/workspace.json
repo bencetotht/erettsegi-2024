@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tételek - Irodalom.md",
+                "file": "történelem/15. Nemzetszocializmus.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4793fd26ea48a048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "történelem/16. Kommunizmus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tételek - Irodalom.md",
+                "file": "történelem/16. Kommunizmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tételek - Irodalom.md",
+                "file": "történelem/16. Kommunizmus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tételek - Irodalom.md"
+                "file": "történelem/16. Kommunizmus.md"
               }
             }
           }
@@ -146,17 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "535beec315ff41cd",
+  "active": "4793fd26ea48a048",
   "lastOpenFiles": [
+    "történelem/15. Nemzetszocializmus.md",
+    "történelem/16. Kommunizmus.md",
+    "irodalom/1. Vörösmarty Mihály kései költészete.md",
+    "irodalom/1. Vörösmarty Mihály kései pályaszakaszának költészete.md",
+    "irodalom/3. Vörösmarty Mihály kései pályaszakaszának költészete.md",
+    "történelem/18. Az első világháború.md",
+    "Tételek - Irodalom.md",
+    "irodalom/2. Petőfi Sándor forradalmi költészete.md",
     "Tételek - Nyelvtan.md",
     "Tételek - Történelem.md",
-    "történelem/16. Kommunizmus.md",
-    "történelem/15. Nemzetszocializmus.md",
-    "irodalom/2. Petőfi Sándor forradalmi költészete.md",
-    "Tételek - Irodalom.md",
-    "irodalom/1. Vörösmarty Mihály kései költészete.md",
+    "irodalom/Untitled.md",
+    "Untitled.md",
     "történelem/9. Párizs környéki békék - Trianon.md",
-    "történelem/18. Az első világháború.md",
     "történelem/3. Ipari forradalom második hulláma, Magyarország.md",
     "történelem/4. Középkori városok.md",
     "történelem/12. 1848-49es forradalom és szabadságharc.md",
