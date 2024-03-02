@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tételek - Irodalom.md",
+                "file": "történelem/16. Kommunizmus.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "415e8bd26526cfe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tételek - Történelem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tételek - Irodalom.md",
+                "file": "Tételek - Történelem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tételek - Irodalom.md",
+                "file": "Tételek - Történelem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tételek - Irodalom.md"
+                "file": "Tételek - Történelem.md"
               }
             }
           }
@@ -146,19 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0be52d2fb6e4843",
+  "active": "415e8bd26526cfe2",
   "lastOpenFiles": [
-    "irodalom/10. József Attila kései költészete.md",
+    "történelem/2. Földrajzi felfedezések, következményeik.md",
+    "történelem/1. Vegyesegyházi királyok kora - Károly Róbert.md",
+    "Tételek - Történelem.md",
     "Tételek - Irodalom.md",
+    "történelem/15. Nemzetszocializmus.md",
+    "történelem/16. Kommunizmus.md",
+    "irodalom/10. József Attila kései költészete.md",
     "irodalom/2. Petőfi Sándor forradalmi költészete.md",
     "irodalom/1. Vörösmarty Mihály kései költészete.md",
     "irodalom/3. Arany János balladái.md",
     "Tételek - Nyelvtan.md",
-    "Tételek - Történelem.md",
-    "történelem/15. Nemzetszocializmus.md",
     "történelem/4. Középkori városok.md",
     "történelem/3. Ipari forradalom második hulláma, Magyarország.md",
-    "történelem/16. Kommunizmus.md",
     "irodalom/1. Vörösmarty Mihály kései pályaszakaszának költészete.md",
     "irodalom/3. Vörösmarty Mihály kései pályaszakaszának költészete.md",
     "történelem/18. Az első világháború.md",

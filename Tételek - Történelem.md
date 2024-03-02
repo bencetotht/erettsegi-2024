@@ -1,5 +1,5 @@
-1. Vegyesegyházi királyok: Károly Róbert
-2. Földrajzi felfedezések: gazdasági változások
+1. [Vegyesegyházi királyok: Károly Róbert](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F1.%20Vegyesegyh%C3%A1zi%20kir%C3%A1lyok%20kora%20-%20K%C3%A1roly%20R%C3%B3bert)
+2. [Földrajzi felfedezések: következményeik, gazdasági változások](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F2.%20F%C3%B6ldrajzi%20felfedez%C3%A9sek%2C%20k%C3%B6vetkezm%C3%A9nyeik) (10/2)
 3. [Ipari forradalom II. hulláma Magyarországon: dualizmus korában, kiegyezés](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F3.%20Ipari%20forradalom%20m%C3%A1sodik%20hull%C3%A1ma%2C%20Magyarorsz%C3%A1g)
 4. [Középkori gazdaság, társadalom: városok](https://www.notion.so/4-K-z-pkori-v-rosok-fa1e3539cc8a46f6889f0cd599b03342?pvs=21)
 5. Magyarország a Habsburg Birodalomban: 18. századi demográfiai / etnikai változások

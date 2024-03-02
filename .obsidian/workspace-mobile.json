@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/2. Petőfi Sándor forradalmi költészete.md",
-                "mode": "preview",
+                "file": "Tételek - Történelem.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "irodalom/2. Petőfi Sándor forradalmi költészete.md",
+            "file": "Tételek - Történelem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "irodalom/2. Petőfi Sándor forradalmi költészete.md",
+            "file": "Tételek - Történelem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "irodalom/2. Petőfi Sándor forradalmi költészete.md"
+            "file": "Tételek - Történelem.md"
           }
         }
       }
@@ -133,6 +133,8 @@
   },
   "active": "312213edbb06e73e",
   "lastOpenFiles": [
+    "történelem/15. Nemzetszocializmus.md",
+    "történelem/16. Kommunizmus.md",
     "irodalom/2. Petőfi Sándor forradalmi költészete.md",
     "irodalom/1. Vörösmarty Mihály kései költészete.md",
     "Tételek - Történelem.md",
