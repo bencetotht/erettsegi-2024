@@ -1,0 +1,448 @@
+{
+  "documents_meta_info" : {
+    "Tételek - Történelem.md" : {
+
+    },
+    "Tételek - Nyelvtan.md" : {
+
+    },
+    "történelem\/4. Középkori városok.md" : {
+
+    },
+    "történelem\/15. Nemzetszocializmus.md" : {
+
+    },
+    "történelem\/9. Párizs környéki békék - Trianon.md" : {
+
+    },
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : {
+
+    },
+    "Tételek - Irodalom.md" : {
+
+    },
+    "történelem\/16. Kommunizmus.md" : {
+
+    },
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : {
+
+    },
+    "történelem\/18. Az első világháború.md" : {
+
+    }
+  },
+  "name_path_info" : {
+    "9. párizs környéki békék - trianon" : "történelem\/9. Párizs környéki békék - Trianon.md",
+    "12. 1848-49es forradalom és szabadságharc" : "történelem\/12. 1848-49es forradalom és szabadságharc.md",
+    "18. az első világháború" : "történelem\/18. Az első világháború.md",
+    "4. középkori városok" : "történelem\/4. Középkori városok.md",
+    "tételek - nyelvtan" : "Tételek - Nyelvtan.md",
+    "tételek - történelem" : "Tételek - Történelem.md",
+    "16. kommunizmus" : "történelem\/16. Kommunizmus.md",
+    "15. nemzetszocializmus" : "történelem\/15. Nemzetszocializmus.md",
+    "tételek - irodalom" : "Tételek - Irodalom.md",
+    "3. ipari forradalom második hulláma, magyarország" : "történelem\/3. Ipari forradalom második hulláma, Magyarország.md"
+  },
+  "documents_info" : {
+    "Tételek - Történelem.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+        {
+          "name" : "Ipari forradalom II. hulláma Magyarországon: dualizmus korában, kiegyezés",
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F3.%20Ipari%20forradalom%20m%C3%A1sodik%20hull%C3%A1ma%2C%20Magyarorsz%C3%A1g"
+        },
+        {
+          "name" : "Középkori gazdaság, társadalom: városok",
+          "url" : "https:\/\/www.notion.so\/4-K-z-pkori-v-rosok-fa1e3539cc8a46f6889f0cd599b03342?pvs=21"
+        },
+        {
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F9.%20P%C3%A1rizs%20k%C3%B6rny%C3%A9ki%20b%C3%A9k%C3%A9k%20-%20Trianon",
+          "name" : "Párizs környéki békék: Trianon"
+        },
+        {
+          "name" : "Forradalom és szabadságharc: március 15, áprilisi törvények, jobbágyfelszabadítás, osztrák-magyar viszony",
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F12.%201848-49es%20forradalom%20%C3%A9s%20szabads%C3%A1gharc"
+        },
+        {
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F16.%20Kommunizmus",
+          "name" : "Állam, ideológia, gazdaság a két világháború között: nemzeti szocializmus"
+        },
+        {
+          "name" : "I. világháború: hadviselő felek, jellege, hadigazdaság, új fegyverek",
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F18.%20Az%20els%C5%91%20vil%C3%A1gh%C3%A1bor%C3%BA"
+        }
+      ],
+      "images" : [
+
+      ]
+    },
+    "Tételek - Nyelvtan.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "történelem\/18. Az első világháború.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "történelem\/15. Nemzetszocializmus.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "történelem\/9. Párizs környéki békék - Trianon.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "történelem\/4. Középkori városok.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "Tételek - Irodalom.md" : {
+      "links" : [
+        {
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=irodalom%2F1.%20V%C3%B6r%C3%B6smarty%20Mih%C3%A1ly%20k%C3%A9sei%20k%C3%B6lt%C3%A9szete",
+          "name" : "Vörösmarty Mihály kései pályaszakaszának költészete"
+        },
+        {
+          "name" : "Petőfi Sándor forradalmi látomásköltészete",
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=irodalom%2F2.%20Pet%C5%91fi%20S%C3%A1ndor%20forradalmi%20k%C3%B6lt%C3%A9szete"
+        },
+        {
+          "name" : "Arany János balladái",
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=irodalom%2F3.%20Arany%20J%C3%A1nos%20ballad%C3%A1i"
+        },
+        {
+          "url" : "obsidian:\/\/open?vault=erettsegi&file=irodalom%2F10.%20J%C3%B3zsef%20Attila%20k%C3%A9sei%20k%C3%B6lt%C3%A9szete",
+          "name" : "József Attila kései költészete"
+        }
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "történelem\/16. Kommunizmus.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    }
+  },
+  "todo_list" : {
+
+  },
+  "relative_folders" : [
+    "nyelvtan",
+    "történelem",
+    "irodalom",
+    "matek"
+  ],
+  "path_name_info" : {
+    "Tételek - Történelem.md" : "Tételek - Történelem",
+    "történelem\/16. Kommunizmus.md" : "16. Kommunizmus",
+    "Tételek - Nyelvtan.md" : "Tételek - Nyelvtan",
+    "történelem\/18. Az első világháború.md" : "18. Az első világháború",
+    "Tételek - Irodalom.md" : "Tételek - Irodalom",
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : "12. 1848-49es forradalom és szabadságharc",
+    "történelem\/9. Párizs környéki békék - Trianon.md" : "9. Párizs környéki békék - Trianon",
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : "3. Ipari forradalom második hulláma, Magyarország",
+    "történelem\/15. Nemzetszocializmus.md" : "15. Nemzetszocializmus",
+    "történelem\/4. Középkori városok.md" : "4. Középkori városok"
+  },
+  "filename_path_info" : {
+    "9. párizs környéki békék - trianon" : "történelem\/9. Párizs környéki békék - Trianon.md",
+    "16. kommunizmus" : "történelem\/16. Kommunizmus.md",
+    "18. az első világháború" : "történelem\/18. Az első világháború.md",
+    "4. középkori városok" : "történelem\/4. Középkori városok.md",
+    "tételek - irodalom" : "Tételek - Irodalom.md",
+    "15. nemzetszocializmus" : "történelem\/15. Nemzetszocializmus.md",
+    "tételek - nyelvtan" : "Tételek - Nyelvtan.md",
+    "tételek - történelem" : "Tételek - Történelem.md",
+    "3. ipari forradalom második hulláma, magyarország" : "történelem\/3. Ipari forradalom második hulláma, Magyarország.md",
+    "12. 1848-49es forradalom és szabadságharc" : "történelem\/12. 1848-49es forradalom és szabadságharc.md"
+  },
+  "sorted_relative_paths_with_sort_value" : {
+    "történelem\/18. Az első világháború.md" : 1708619705,
+    "történelem\/16. Kommunizmus.md" : 1708800631,
+    "történelem\/15. Nemzetszocializmus.md" : 1708797751,
+    "Tételek - Irodalom.md" : 1709113390,
+    "Tételek - Történelem.md" : 1708736218,
+    "történelem\/9. Párizs környéki békék - Trianon.md" : 1708616809,
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : 1708526014,
+    "Tételek - Nyelvtan.md" : 1708527137,
+    "történelem\/4. Középkori városok.md" : 1708525935,
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : 1708534212
+  },
+  "sorted_relative_paths_by_date" : [
+    "történelem\/16. Kommunizmus.md",
+    "történelem\/15. Nemzetszocializmus.md",
+    "Tételek - Nyelvtan.md",
+    "Tételek - Irodalom.md",
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md",
+    "történelem\/4. Középkori városok.md",
+    "történelem\/9. Párizs környéki békék - Trianon.md",
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md",
+    "történelem\/18. Az első világháború.md",
+    "Tételek - Történelem.md"
+  ],
+  "tags_tags" : {
+
+  },
+  "toc_hash_info" : {
+
+  },
+  "sorted_relative_paths" : [
+    "Tételek - Irodalom.md",
+    "történelem\/16. Kommunizmus.md",
+    "történelem\/15. Nemzetszocializmus.md",
+    "Tételek - Történelem.md",
+    "történelem\/18. Az első világháború.md",
+    "történelem\/9. Párizs környéki békék - Trianon.md",
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md",
+    "Tételek - Nyelvtan.md",
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md",
+    "történelem\/4. Középkori városok.md"
+  ],
+  "links_backward_paths" : {
+
+  },
+  "sorted_relative_paths_by_date_with_sort_value" : {
+    "történelem\/18. Az első világháború.md" : 1708525491,
+    "Tételek - Történelem.md" : 1708524559,
+    "Tételek - Nyelvtan.md" : 1708526625,
+    "történelem\/15. Nemzetszocializmus.md" : 1708736157,
+    "Tételek - Irodalom.md" : 1708526618,
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : 1708525708,
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : 1708525947,
+    "történelem\/16. Kommunizmus.md" : 1708736164,
+    "történelem\/9. Párizs környéki békék - Trianon.md" : 1708525851,
+    "történelem\/4. Középkori városok.md" : 1708525907
+  },
+  "files_mtime_info" : {
+    "Tételek - Történelem.md" : 1708736218,
+    "történelem\/15. Nemzetszocializmus.md" : 1708797751,
+    "történelem\/16. Kommunizmus.md" : 1708800631,
+    "Tételek - Nyelvtan.md" : 1708527137,
+    "történelem\/4. Középkori városok.md" : 1708525935,
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : 1708534212,
+    "Tételek - Irodalom.md" : 1709113390,
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : 1708526014,
+    "történelem\/9. Párizs környéki békék - Trianon.md" : 1708616809,
+    "történelem\/18. Az első világháború.md" : 1708619705
+  },
+  "words_info" : {
+    "Tételek - Irodalom.md" : 195,
+    "Tételek - Nyelvtan.md" : 225,
+    "történelem\/9. Párizs környéki békék - Trianon.md" : 483,
+    "történelem\/4. Középkori városok.md" : 555,
+    "Tételek - Történelem.md" : 288,
+    "történelem\/16. Kommunizmus.md" : 502,
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : 808,
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : 572,
+    "történelem\/15. Nemzetszocializmus.md" : 525,
+    "történelem\/18. Az első világháború.md" : 459
+  },
+  "toc_info" : {
+    "Tételek - Irodalom.md" : [
+
+    ],
+    "Tételek - Nyelvtan.md" : [
+      "0,### KOMMUNIKÁCIÓ",
+      "1,### A MAGYAR NYELV TÖRTÉNETE",
+      "2,### EMBER ES NYELVHASZNÁLAT",
+      "3,### A NYELVI RENDSZER",
+      "4,### A SZÖVEG",
+      "5,### A RETORIKA ALAPJAI",
+      "6,### STÍLUS ÉS JELENTÉS",
+      "7,### DIGITÁLIS KOMMUNIKÁCIÓ"
+    ],
+    "Tételek - Történelem.md" : [
+
+    ],
+    "történelem\/4. Középkori városok.md" : [
+      "0,## Előzmények - gazdasági fellendülés",
+      "1,## Városok kialakulása",
+      "2,## Városi önkormányzat",
+      "3,## Céhek",
+      "4,## Kereskedelem"
+    ],
+    "történelem\/16. Kommunizmus.md" : [
+      "0,## A bolsevik hatalom kiépítése",
+      "1,## A kommunista diktatúra",
+      "2,### Gazdaságpolitika",
+      "3,### Totális diktatúra"
+    ],
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : [
+      "0,# Ipari forradalom (10\/15)",
+      "1,## Második ipari forradalom",
+      "2,### Ipar:",
+      "3,### Új iparszervezeti formák",
+      "4,# Ipari forradalom Magyarországon (11\/5)",
+      "5,## Kiegyezés, 1867",
+      "6,## Gazdaságpolitika",
+      "7,## Valutareform",
+      "8,## Vasút",
+      "9,### Folyamszabályozások",
+      "10,## Mezőgazdaság fejlődése",
+      "11,## Fellendülő ipar",
+      "12,### Tényezői",
+      "13,### Élelmiszeripar",
+      "14,### Nehézipar",
+      "15,## Hitelszervezet",
+      "16,## Értékelés"
+    ],
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : [
+      "0,## Népek tavasza",
+      "1,## Utolsó rendi országgyűlés - Pozsony, 1847-48",
+      "2,## A Pesti forradalom - március 15.",
+      "3,## Az első felelős kormány - március 23.",
+      "4,### A kormány tagjai:",
+      "5,## Áprilisi törvények - április 11.",
+      "6,### A jobbágyfelszabadítás",
+      "7,## Forradalom jelentősége, eredményei"
+    ],
+    "történelem\/18. Az első világháború.md" : [
+      "0,## Szövetségi rendszerek kialakulása",
+      "1,## A háború kitörése",
+      "2,### További hadba lépések",
+      "3,## Frontvonalak",
+      "4,### Nyugati front",
+      "5,### Keleti front",
+      "6,### Balkáni front",
+      "7,### Olasz front",
+      "8,## Háború jellegzetességei",
+      "9,## Háború befejezése"
+    ],
+    "történelem\/15. Nemzetszocializmus.md" : [
+      "0,## Első világháború következményei Németországban",
+      "1,### Versailles-i béke",
+      "2,## NSDAP - Nemzetiszocialista Német Munkáspárt",
+      "3,## A náci párt hatalomra jutása",
+      "4,## A totális állam kiépítése"
+    ],
+    "történelem\/9. Párizs környéki békék - Trianon.md" : [
+      "0,## Békefeltétek megállapításának körülményei",
+      "1,### Területi rendelkezések",
+      "2,## Vesztes háború következményei",
+      "3,### Népesség",
+      "4,### Gazdaság",
+      "5,### Infrastruktúra",
+      "6,## Gazdasági helyreállítás",
+      "7,### Szerkezetváltás",
+      "8,### Társadalmi következmények"
+    ]
+  },
+  "tags_paths" : {
+
+  },
+  "relative_paths" : [
+    "történelem\/15. Nemzetszocializmus.md",
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md",
+    "történelem\/18. Az első világháború.md",
+    "történelem\/16. Kommunizmus.md",
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md",
+    "történelem\/9. Párizs környéki békék - Trianon.md",
+    "történelem\/4. Középkori városok.md",
+    "Tételek - Nyelvtan.md",
+    "Tételek - Irodalom.md",
+    "Tételek - Történelem.md"
+  ],
+  "wiki_data_version" : "0.1",
+  "links_paths" : {
+    "Tételek - Történelem.md" : [
+
+    ],
+    "Tételek - Irodalom.md" : [
+
+    ],
+    "történelem\/4. Középkori városok.md" : [
+
+    ],
+    "történelem\/18. Az első világháború.md" : [
+
+    ],
+    "történelem\/12. 1848-49es forradalom és szabadságharc.md" : [
+
+    ],
+    "történelem\/3. Ipari forradalom második hulláma, Magyarország.md" : [
+
+    ],
+    "történelem\/9. Párizs környéki békék - Trianon.md" : [
+
+    ],
+    "történelem\/16. Kommunizmus.md" : [
+
+    ],
+    "Tételek - Nyelvtan.md" : [
+
+    ],
+    "történelem\/15. Nemzetszocializmus.md" : [
+
+    ]
+  }
+}
