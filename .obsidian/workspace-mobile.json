@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tételek - Irodalom.md",
-                "mode": "source",
+                "file": "történelem/3. Ipari forradalom második hulláma, Magyarország.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tételek - Irodalom.md",
+            "file": "történelem/3. Ipari forradalom második hulláma, Magyarország.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tételek - Irodalom.md",
+            "file": "történelem/3. Ipari forradalom második hulláma, Magyarország.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tételek - Irodalom.md"
+            "file": "történelem/3. Ipari forradalom második hulláma, Magyarország.md"
           }
         }
       }
@@ -133,6 +133,9 @@
   },
   "active": "312213edbb06e73e",
   "lastOpenFiles": [
+    "történelem/2. Földrajzi felfedezések, következményeik.md",
+    "történelem/1. Vegyesegyházi királyok kora - Károly Róbert.md",
+    "Tételek - Irodalom.md",
     "irodalom/4. Jókai Mór - Az arany ember.md",
     "irodalom/3. Arany János balladái.md",
     "Tételek - Történelem.md",
