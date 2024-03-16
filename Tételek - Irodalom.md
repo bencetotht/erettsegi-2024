@@ -3,7 +3,7 @@
 3. [Arany János balladái](obsidian://open?vault=erettsegi&file=irodalom%2F3.%20Arany%20J%C3%A1nos%20ballad%C3%A1i)
 4. [Jókai Mór: Az arany ember](obsidian://open?vault=erettsegi&file=irodalom%2F4.%20J%C3%B3kai%20M%C3%B3r%20-%20Az%20arany%20ember)
 5. [Mikszáth Kálmán novellái](obsidian://open?vault=erettsegi&file=irodalom%2F5.%20Miksz%C3%A1th%20K%C3%A1lm%C3%A1n%20novell%C3%A1i)
-6. ﻿﻿﻿Ady Endre Ugar-versei
+6. ﻿﻿﻿[Ady Endre Ugar-versei](obsidian://open?vault=erettsegi&file=irodalom%2F6.%20Ady%20Endre%20Ugar-versei)
 7. ﻿﻿﻿Herczeg Ferenc: Az élet kapuja
 8. ﻿﻿﻿Babits Mihály: Jónás könyve
 9. ﻿﻿﻿Kosztolányi Dezső: Édes Anna
