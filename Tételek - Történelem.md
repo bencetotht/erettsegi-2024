@@ -3,8 +3,8 @@
 3. [Ipari forradalom II. hulláma Magyarországon: dualizmus korában, kiegyezés](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F3.%20Ipari%20forradalom%20m%C3%A1sodik%20hull%C3%A1ma%2C%20Magyarorsz%C3%A1g)
 4. [Középkori gazdaság, társadalom: városok](https://www.notion.so/4-K-z-pkori-v-rosok-fa1e3539cc8a46f6889f0cd599b03342?pvs=21)
 5. [Magyarország a Habsburg Birodalomban: 18. századi demográfiai / etnikai változások](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F5.%20Magyarorsz%C3%A1g%20a%20Habsburg%20Birodalomban)
-6. Társadalom és életmód: két világháború közötti oktatás és kultúrapolitika
-7. Kommunista diktatúra: Rákosi korszak mindennapjai
+6. [Társadalom és életmód: két világháború közötti oktatás és kultúrapolitika](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F6.%20T%C3%A1rsadalom%20%C3%A9s%20%C3%A9letm%C3%B3d%20-%20k%C3%A9t%20vil%C3%A1gh%C3%A1bor%C3%BA%20k%C3%B6z%C3%B6tti%20oktat%C3%A1s%20%C3%A9s%20kult%C3%BArapolitika)
+7. [Kommunista diktatúra: Rákosi korszak mindennapjai](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F7.%20Kommunista%20diktat%C3%BAra%20-%20R%C3%A1kosi%20korszak%20mindennapjai)
 8. Reformkor: Széchenyi
 9. [Párizs környéki békék: Trianon](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F9.%20P%C3%A1rizs%20k%C3%B6rny%C3%A9ki%20b%C3%A9k%C3%A9k%20-%20Trianon)
 10. Holokauszt: zsidóság helyzete a Horthy korszakban, Magyarországon
