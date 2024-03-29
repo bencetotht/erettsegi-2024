@@ -11,10 +11,10 @@
 11. Felvilágosodás: államelmélete, angol alkotmányos monarchia működése
 12. [Forradalom és szabadságharc: március 15, áprilisi törvények, jobbágyfelszabadítás, osztrák-magyar viszony](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F12.%201848-49es%20forradalom%20%C3%A9s%20szabads%C3%A1gharc)
 13. Politika és gazdaság: Bethleni konszolidáció
-14. Reformáció és katolikus megújulás Európában: reformáció okai, Luther, Kálvin, ellenreformáció
+14. [Reformáció és katolikus megújulás Európában: reformáció okai, Luther, Kálvin, ellenreformáció](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F14.%20Reform%C3%A1ci%C3%B3%20%C3%A9s%20katolikus%20meg%C3%BAjul%C3%A1s%20Eur%C3%B3p%C3%A1ban)
 15. [Állam, ideológia, gazdaság a két világháború között: nemzeti szocializmus](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F16.%20Kommunizmus)
 16. [Állam, ideológia, gazdaság a két világháború között: kommunizmus](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F16.%20Kommunizmus)
-17. Keresztény államalapítás, Árpád-kor: tatárjárás
+17. [Keresztény államalapítás, Árpád-kor: tatárjárás](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F17.%20Kereszt%C3%A9ny%20%C3%A1llamalap%C3%ADt%C3%A1s%2C%20%C3%81rp%C3%A1d-kor%2C%20tat%C3%A1rj%C3%A1r%C3%A1s)
 18. [I. világháború: hadviselő felek, jellege, hadigazdaság, új fegyverek](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F18.%20Az%20els%C5%91%20vil%C3%A1gh%C3%A1bor%C3%BA)
-19. Nemzetközi együttműködés, globális világ: EU
+19. [Nemzetközi együttműködés, globális világ: EU](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F19.%20Nemzetk%C3%B6zi%20egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s%2C%20glob%C3%A1lis%20vil%C3%A1g%20-%20EU)
 20. Hidegháború kora
