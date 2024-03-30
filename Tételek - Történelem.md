@@ -5,9 +5,9 @@
 5. [Magyarország a Habsburg Birodalomban: 18. századi demográfiai / etnikai változások](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F5.%20Magyarorsz%C3%A1g%20a%20Habsburg%20Birodalomban)
 6. [Társadalom és életmód: két világháború közötti oktatás és kultúrapolitika](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F6.%20T%C3%A1rsadalom%20%C3%A9s%20%C3%A9letm%C3%B3d%20-%20k%C3%A9t%20vil%C3%A1gh%C3%A1bor%C3%BA%20k%C3%B6z%C3%B6tti%20oktat%C3%A1s%20%C3%A9s%20kult%C3%BArapolitika)
 7. [Kommunista diktatúra: Rákosi korszak mindennapjai](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F7.%20Kommunista%20diktat%C3%BAra%20-%20R%C3%A1kosi%20korszak%20mindennapjai)
-8. Reformkor: Széchenyi
+8. [Reformkor: Széchenyi](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F8.%20Reformkor%20-%20Sz%C3%A9chenyi)
 9. [Párizs környéki békék: Trianon](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F9.%20P%C3%A1rizs%20k%C3%B6rny%C3%A9ki%20b%C3%A9k%C3%A9k%20-%20Trianon)
-10. Holokauszt: zsidóság helyzete a Horthy korszakban, Magyarországon
+10. [Holokauszt: zsidóság helyzete a Horthy korszakban, Magyarországon](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F10.%20Holokauszt%20-%20zsid%C3%B3s%C3%A1g%20helyzete%20a%20Horthy%20korszakban%2C%20Magyarorsz%C3%A1gon)
 11. Felvilágosodás: államelmélete, angol alkotmányos monarchia működése
 12. [Forradalom és szabadságharc: március 15, áprilisi törvények, jobbágyfelszabadítás, osztrák-magyar viszony](obsidian://open?vault=erettsegi&file=t%C3%B6rt%C3%A9nelem%2F12.%201848-49es%20forradalom%20%C3%A9s%20szabads%C3%A1gharc)
 13. Politika és gazdaság: Bethleni konszolidáció
