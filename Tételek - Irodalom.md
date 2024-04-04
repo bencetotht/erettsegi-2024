@@ -14,7 +14,7 @@
 14. **Áprily Lajos** költészete (162)
 15. **Grecsó Krisztián** novellisztikája
 16. [**Horatius** ódái](obsidian://open?vault=erettsegi-2024&file=irodalom%2F16.%20Horatius%20%C3%B3d%C3%A1i)
-17. ﻿﻿﻿﻿Változások a XX. századi prózairodalomban (Franz **Kafka**: Az átváltozás)
+17. ﻿﻿﻿﻿[Változások a XX. századi prózairodalomban (Franz **Kafka**: Az átváltozás)](obsidian://open?vault=erettsegi-2024&file=irodalom%2F17.%20V%C3%A1ltoz%C3%A1sok%20a%20XX.%20sz%C3%A1zadi%20pr%C3%B3zairodalomban%20(Franz%20Kafka%20-%20Az%20%C3%A1tv%C3%A1ltoz%C3%A1s))
 18. [A konfliktusos dráma bemutatása: **Szophoklész**: Antigoné](obsidian://open?vault=erettsegi-2024&file=irodalom%2F18.%20A%20konfliktusos%20dr%C3%A1ma%20bemutat%C3%A1sa%20-%20Szophokl%C3%A9sz%20-%20Antigon%C3%A9)
 19. ﻿﻿﻿﻿**Madách** Imre: Az ember tragédiája (120)
 20. **Berzsenyi** Dániel elégiaköltészete (94)
