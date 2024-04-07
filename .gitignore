@@ -2,4 +2,5 @@
 .posts_info.json
 .db/
 .Archive/
-.obsidian/
+.obsidian/*
+*.json
