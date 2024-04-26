@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/16. Horatius ódái.md",
+                "file": "irodalom/15. Grecsó Krisztián novellisztikája.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irodalom/16. Horatius ódái.md",
+                "file": "irodalom/15. Grecsó Krisztián novellisztikája.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irodalom/16. Horatius ódái.md",
+                "file": "irodalom/15. Grecsó Krisztián novellisztikája.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irodalom/16. Horatius ódái.md"
+                "file": "irodalom/15. Grecsó Krisztián novellisztikája.md"
               }
             }
           }
@@ -185,8 +185,11 @@
   },
   "active": "9102042b3e7480e5",
   "lastOpenFiles": [
-    "irodalom/14. Áprily Lajos költészete.md",
     "irodalom/12. Radnóti Miklós - halálba vezető út.md",
+    "irodalom/15. Grecsó Krisztián novellisztikája.md",
+    "irodalom/16. Horatius ódái.md",
+    "történelem/13. Politika és gazdaság - Bethleni konszolidáció.md",
+    "irodalom/14. Áprily Lajos költészete.md",
     "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
     "Tételek - Irodalom.md",
     "irodalom/Irodalmi műnemek és műfajok.md",
@@ -208,10 +211,7 @@
     "irodalom/1. Vörösmarty Mihály kései pályaszakaszának költészete.md",
     "irodalom/3. Vörösmarty Mihály kései pályaszakaszának költészete.md",
     "történelem/18. Az első világháború.md",
-    "történelem/9. Párizs környéki békék - Trianon.md",
-    "történelem/12. 1848-49es forradalom és szabadságharc.md",
     "erettsegi-2024",
-    "2024-02-21.md",
     "Untitled.canvas",
     "történelem",
     "matek",
