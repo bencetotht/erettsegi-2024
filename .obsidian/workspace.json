@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd50f6f99432297c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "irodalom/Irodalmi stílusok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9102042b3e7480e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "irodalom/16. Horatius ódái.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irodalom/4. Jókai Mór - Az arany ember.md",
+                "file": "irodalom/16. Horatius ódái.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irodalom/4. Jókai Mór - Az arany ember.md",
+                "file": "irodalom/16. Horatius ódái.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irodalom/4. Jókai Mór - Az arany ember.md"
+                "file": "irodalom/16. Horatius ódái.md"
               }
             }
           }
@@ -159,16 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "415e8bd26526cfe2",
+  "active": "9102042b3e7480e5",
   "lastOpenFiles": [
+    "irodalom/14. Áprily Lajos költészete.md",
+    "irodalom/12. Radnóti Miklós - halálba vezető út.md",
+    "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
+    "Tételek - Irodalom.md",
+    "irodalom/Irodalmi műnemek és műfajok.md",
+    "irodalom/4. Jókai Mór - Az arany ember.md",
+    "irodalom/Irodalmi stílusok.md",
     "irodalom/5. Mikszáth Kálmán novellái.md",
     "irodalom/10. József Attila kései költészete.md",
-    "irodalom/12. Radnóti Miklós - halálba vezető út.md",
     "irodalom/1. Vörösmarty Mihály kései költészete.md",
     "irodalom/2. Petőfi Sándor forradalmi költészete.md",
     "irodalom/3. Arany János balladái.md",
-    "irodalom/4. Jókai Mór - Az arany ember.md",
-    "Tételek - Irodalom.md",
     "Tételek - Történelem.md",
     "történelem/1. Vegyesegyházi királyok kora - Károly Róbert.md",
     "történelem/16. Kommunizmus.md",
@@ -180,12 +208,10 @@
     "irodalom/1. Vörösmarty Mihály kései pályaszakaszának költészete.md",
     "irodalom/3. Vörösmarty Mihály kései pályaszakaszának költészete.md",
     "történelem/18. Az első világháború.md",
-    "Untitled.md",
     "történelem/9. Párizs környéki békék - Trianon.md",
     "történelem/12. 1848-49es forradalom és szabadságharc.md",
     "erettsegi-2024",
     "2024-02-21.md",
-    "9..md",
     "Untitled.canvas",
     "történelem",
     "matek",
