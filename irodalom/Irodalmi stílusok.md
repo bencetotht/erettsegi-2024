@@ -7,7 +7,7 @@
 	- a **vallás szerepe erősen csökken**
 	- előtérbe kerülnek a **világi témák, az élet szépségei**: a földi élet
 	- **antik hagyomány** kultusza
-	- **mindennek a mértéke az ember** (humanizmus).
+	- **mindennek a mértéke az ember** (humanizmus)
 	- megnő a **művészet szerepe**
 	- megjelennek a **mecénások**
 	- az **alkotóknak hírneve** van
@@ -32,7 +32,7 @@
 - témája az **élet élvezete**, nem ritkán közel áll a **giccshez**
 - *Csokonai Vitéz Mihály*
 ## Klasszicizmus:
--  **felvilágosodás korában** jellemző korstílus
+- **felvilágosodás korában** jellemző korstílus
 - Franciaországból indul
 - művészet **követendő normákra, előírásokra** épül, a **művészi szabadság a minimálisra csökken**
 - Jellemzői:
@@ -47,7 +47,7 @@
 - **érzelmek kultusza**
 - **szubjektívek**, leginkább a **boldogtalanság érzését**, az **érzelmek és a világ összeütközését**, a **földön elérhető boldogság lehetetlenségét**, a **magányt**, **beteljesületlen szerelmet** fejezik ki
 ## **Romantika:**
--  XVIII. szd. második felétől terjedt el, Magyarországon a XIX. szd. második felében jellemző
+- XVIII. szd. második felétől terjedt el, Magyarországon a XIX. szd. második felében jellemző
 - **klasszicizmus ellenében** jött létre
 - Jellemzői:
 	- a romantikus ember **idegenül érzi magát a világban**, a **művész eltávolodik a tömegektől**

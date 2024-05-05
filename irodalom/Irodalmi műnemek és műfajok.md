@@ -1,169 +1,161 @@
----
-title: Irodalmi műnemek és műfajok
-mdate: 2024-03-22 13:44:53
-mdevice: iPad
-doc_id: eaac8e3c68734861ab83a34af0853da8
-date: 2024-03-09 09:57:16
----
 # Epika:
-- Célja: 
-	- történet elbeszélése
-	- tájékoztatás
-- Ideje: múltbeli esemény ábrázolása
+- célja: **történet elbeszélése, tájékoztatás**
+- ideje: **múltbeli esemény** ábrázolása
 - szereplők:
-	- több szereplő
-	- viszonyrendszerük van
-	- megnyilatkozásuk idézet -> párbeszéd
-- tér: valóság vagy fiktív világ
-- eszköz: narrátor, aki az elbeszélő
-- cselekmény: egy vagy többszálon fut
-- terjedelem: akár több ezer oldal
+	- **több szereplő**
+	- **viszonyrendszerük** van
+	- megnyilatkozásuk idézet -> **párbeszéd**
+- tér: **valóság vagy fiktív világ**
+- eszköz: **narrátor**, aki az elbeszélő
+- cselekmény **egy vagy többszálon** fut
+- **terjedelem hosszú**, akár több ezer oldal
 - szerzője: író
-- Eseményeket elmondó cselekményes műnem
-- Két nagy csoport:
-	- **kisepika**
-		- **elbeszélés:**
-			- terjedelmét tekintve: kisregény és a novella között helyezkedik el
-			- általában egyetlen cselekménysorozatra épül
-			- többszöri helyváltozás
-			- viszonylag sok szereplő
-			- Pl.: Mikszáth Kálmán: *A tót atyafiak* (1881), *Az a fekete folt*
-		- **novella:**
-			- cselekménye általában egy, néha több szálon fut
-			- kevés szereplő
-			- lezárására jellemző a váratlan fordulat -> csattanó
-			- párbeszédeket tartalmazhat
-			- pl.:  Giovanni Boccaccio: *Dekameron*, 
-		- **anekdota:**
-			- történelmileg hiteles mű
-			- többnyire ismert történelmi személy vagy esemény mulatságos jellemzése
-			- csattanós történet
-			- pl.: Mikszáth Kálmán: *Beszterce ostroma*
-		- **mese:**
-			- Nem valóságos történet elmesélése
-			- csodás elemek
-			- földöntúli lények szereplésével
-			- valamilyen tanulsággal szolgál
-		- **Monda:**
-			- van valóságalapja
-			- tárgya egy nép életében fontos fordulatot hozó esemény
-			- áltatában nincs szerzője
-			- pl.: Csodaszarvas, Álmos monda, Fehér ló mondája
-		- **Legenda:**
-			- van valóságalapja
-			- hőse olyan szent életű ember, aki a vallása miatt áldozatot vállal
-			- Legfőbb célja a példaadás
-			- pl.: Ferenc-legenda, Margit-legenda
-		- **Mítosz:**
-			- Hitrege
-			- történelem korai szakaszában keletkezett
-			- vallási jellegű mesés elbeszélés
-			- pl.: Prométheusz-mítosz
-		- **Prédikáció:**
-			- egyházi beszéd
-			- általában élőszóban
-			- a Biblia értelmezése
-			- pl.: *Halotti Beszéd és Könyörgés*
-	- **nagyepika**:
-		- **regény:**
-			- cselekménye szerteágazó
-			- hosszabb időszakot ölel fel
-			- fő- és mellékszereplőket is felvonultat
-			- változatai: utaztató, történelmi, tézis- vagy fejlődésregény stb.
-			- pl.: Jókai Mór: *Az arany ember*
-		- **eposz:**
-			- gyakran verses formájú
-			-  Szereplői rendkívüli tulajdonsággal rendelkező hősök
-			- eposzi kellékek:
-				- segélykérés – *invokáció*
-				- téma megjelölése – *propozíció*
-				- seregszemle – *enumeráció*
-				- dolgok közepébe vágva- *in medias res*
-				- isteni beavatkozás- *deus ex machina*  
-				- állandó jelzők – *epitheton ornans*
-			- pl.: *A homéroszi eposzok*, Szophoklész: *Antigoné*
-	- **Szerkezete:**
-		- Előkészítés (expozíció)
-		- Bonyodalom
-		- Kibontakozás
-		- Tetőpont
-		-  Megoldás
+- eseményeket elmondó **cselekményes műnem**
+- **Szerkezete:**
+	- előkészítés (expozíció)
+	- bonyodalom
+	- kibontakozás
+	- tetőpont
+	- megoldás
+## Kisepika
+- **elbeszélés:**
+	- terjedelmét tekintve: kisregény és a novella között helyezkedik el
+	- általában **egyetlen cselekménysorozatra** épül
+	- **többszöri helyváltozás**
+	- viszonylag **sok szereplő**
+	- *Mikszáth Kálmán: A tót atyafiak (1881), Az a fekete folt*
+- **novella:**
+	- cselekménye általában **egy, néha több szálon** fut
+	- **kevés szereplő**
+	- lezárására jellemző a **váratlan fordulat -> csattanó**
+	- **párbeszédeket** tartalmazhat
+	- *Giovanni Boccaccio: Dekameron*
+- **anekdota:**
+	- **történelmileg hiteles** mű
+	- többnyire ismert **történelmi személy vagy esemény mulatságos jellemzése**
+	- **csattanós** történet
+	- *Mikszáth Kálmán: Beszterce ostroma*
+- **mese:**
+	- **nem valóságos történet** elmesélése
+	- **csodás elemek**
+	- **földöntúli lények** szereplésével
+	- valamilyen **tanulsággal** szolgál
+- **monda:**
+	- van **valóságalapja**
+	- tárgya egy **nép életében fontos fordulatot hozó esemény**
+	- áltatában **nincs szerzője**
+	- *Csodaszarvas, Álmos monda, Fehér ló mondája*
+- **legenda:**
+	- van **valóságalapja**
+	- hőse olyan **szent életű ember, aki a vallása miatt áldozatot vállal**
+	- legfőbb célja a **példaadás**
+	- *Ferenc-legenda, Margit-legenda*
+- **mítosz:**
+	- **hitrege**
+	- történelem korai szakaszában keletkezett
+	- **vallási jellegű mesés elbeszélés**
+	- *Prométheusz-mítosz*
+- **prédikáció:**
+	- **egyházi beszéd**
+	- általában élőszóban
+	- a Biblia értelmezése
+	- *Halotti Beszéd és Könyörgés*
+## Nagyepika:
+- **regény:**
+	- **cselekménye szerteágazó**
+	- **hosszabb időszakot** ölel fel
+	- **fő- és mellékszereplőket** is felvonultat
+	- változatai: utaztató, történelmi, tézis- vagy fejlődésregény stb.
+	- *Jókai Mór: Az arany ember, Herczeg Ferenc: Az élet kapuja* 
+- **eposz:**
+	- gyakran **verses formájú**
+	- szereplői **rendkívüli tulajdonsággal rendelkező hősök**
+	- **eposzi kellékek**:
+		- segélykérés – *invokáció*
+		- téma megjelölése – *propozíció*
+		- seregszemle – *enumeráció*
+		- dolgok közepébe vágva- *in medias res*
+		- isteni beavatkozás- *deus ex machina*  
+		- állandó jelzők – *epitheton ornans*
+	- *A homéroszi eposzok, Szophoklész: Antigoné*
 # Líra:
-- az érzelmek kifejezésére szolgáló műnem
-- cél: 
-	- érzések, gondolatok, hangulatok kifejezése
-- ideje: jelenidejűég
-- szereplő: lírai én
-- tér: belső világ
-- nem jellemző a cselekmény
-- kifejezésmódja:
-	- kötött
-	- megszerkesztett
-	- rímes és ritmusos
+- az **érzelmek, gondolatok, hangulatok kifejezésére szolgáló műnem**
+- **ideje: jelen idejű**
+- **szereplő: lírai én**
+- **tér: belső világ**
+- **nem jellemző a cselekmény**
+- kifejezésmódja: kötött / megszerkesztett / rímes és ritmusos
 - Műfajai:
-	- **Dal:**
+	- **dal:**
 		- legősibb lírai műfaj
-		- kapcsolat a zenével és tánccal
-		- alapvető és egyszerű emberi érzelmek (öröm, bánat) kifejezése
-		- pl.: Petőfi: *Befordultam a konyhára*, Goethe: *A vándor éji dala*, Verlaine: *Őszi sanzon*, József Attila: *Tiszta*
+		- kapcsolat a **zenével és tánccal**
+		- **alapvető és egyszerű emberi érzelmek** (öröm, bánat) kifejezése
+		- *Petőfi: Befordultam a konyhára, Goethe: A vándor éji dala, Verlaine: Őszi sanzon, József Attila: Tiszta*
 	- **Óda:**
-		- Ünnepélyes, magasztos hangvételű
-		- emelkedettség, pátosz (érzelmi hév) jellemzi
-		- Tárgya: isten, szerelem, barátság, művészet, haza, természet, igazság
-		- pl.: József Attila: *Óda*, Keats: *Óda egy görög vázához*, Berzsenyi Dániel: *Magyarokhoz I.-II.*
+		- **ünnepélyes, magasztos hangvételű**
+		- **emelkedettség, pátosz** (érzelmi hév) jellemzi
+		- **tárgyai**: Isten, szerelem, barátság, művészet, haza, természet, igazság
+		- *József Attila: Óda, Keats: Óda egy görög vázához, Berzsenyi Dániel: Magyarokhoz I.-II.*
 	- **Himnusz:**
-		- Vallásos tartalmú óda
-		- Segélykérés, fohászkodás, Istenhez forduló könyörgés
-		- pl.: Kölcsey: *Himnusz*, Juhász Gyula: *Himnusz az emberhez*, *Mária-himnuszok (középkor)*
+		- **Vallásos tartalmú óda**
+		- **Segélykérés, fohászkodás**, Istenhez forduló **könyörgés**
+		- *Kölcsey: Himnusz, Juhász Gyula: Himnusz az emberhez, Mária-himnuszok (középkor)*
 	- **Rapszódia:**
 		- óda műfajkörébe tartozik
-		- Szélsőséges érzelmek
-		- érzelmi túlfűtöttség
-		- belső feszültség, izgatottság --> váltakozó hosszúságú sorok, hiányos mondatok
-		- pl.: Petőfi: *Egy gondolat bánt engemet*, Vörösmarty: *Előszó*, Kosztolányi: *Hajnali részegség*
+		- **csapongó** műfaj
+		- **szélsőséges érzelmek**
+		- **érzelmi túlfűtöttség**
+		- belső **feszültség, izgatottság** --> váltakozó hosszúságú sorok, hiányos mondatok
+		- *Petőfi: Egy gondolat bánt engemet, Vörösmarty: Előszó, Kosztolányi: Hajnali részegség*
 	- **Epigramma:**
-		- Eredetileg sírfelirat
-		- egy gondolat rövid, csattanós formában
-		- Témája szerint lehet dicsőítő, szatirikus, erotikus, művészeti
+		- eredetileg **sírfelirat**
+		- egy gondolat **rövid, csattanós** formában
+		- témája szerint lehet dicsőítő, szatirikus, erotikus, művészeti
 		- disztichon vagy hexameter
-		- pl.: Kölcsey: *Huszt*, *Emléklapon*, Vörösmarty: *Magyarország címere*, *A Guttenberg-albumba*, Janus Pannonius: *Pannónia dicsérete*
+		- *Kölcsey: Huszt, Emléklapon, Vörösmarty: Magyarország címere, A Guttenberg-albumba, Janus Pannonius: Pannónia dicsérete*
 	- **Elégia:**
-		- Panaszdal, bánatos, szomorkás hangvételű költemény
-		- Belenyugvó, a sorsot elfogadó
-		- pl.: Berzsenyi Dániel: *Levéltöredék barátnémhoz*, *A közelítő tél*, Tóth Árpád szinte összes verse, Juhász Gyula szerelmes versei, Rilke: *Duinói elégiák*, Petőfi: *Szeptember végén*
+		- **panaszdal, bánatos, szomorkás** hangvételű költemény
+		- **belenyugvó, a sorsot elfogadó**
+		- *Berzsenyi Dániel: Levéltöredék barátnémhoz, A közelítő tél, Tóth Árpád szinte összes verse, Juhász Gyula szerelmes versei, Rilke: Duinói elégiák, Petőfi: Szeptember végén*
 	- **Ekloga:**
-		- Pásztori (=bukolikus) környezetben előadott párbeszédes jellegű vers
-		- ermészeti harmónia szemben áll benne a társadalommal
-		- pásztorvilág menedék a világ szörnyűségei ellen
-		- pl.: Vergilius és Radnóti Miklós eklogái
+		- **Pásztori** (=bukolikus) környezetben előadott **párbeszédes jellegű vers**
+		- természeti harmónia szemben áll benne a társadalommal
+		- **pásztorvilág menedék a világ szörnyűségei ellen**
+		- *Vergilius és Radnóti Miklós eklogái*
 	- **Episztola:**
-		- Verses formájú költői levél
-		- egyetemesebb mondanivalót, gondolatot tartalmaz
-		- pl.: Petőfi: *Arany Jánoshoz*, Berzsenyi: *Dukai Takács Judithoz*, Radnóti: *Levél a hitveshez*
+		- verses formájú **költői levél**
+		- **egyetemesebb mondanivalót, gondolatot** tartalmaz
+		- *Petőfi: Arany Jánoshoz, Berzsenyi: Dukai Takács Judithoz, Radnóti: Levél a hitveshez*
 	- **Ars poetica:**
-		- költészet lényegével, céljaival foglalkoznak -> költői hitvallás megfogalmazása
-		- pl.: Verlaine: *Költészettan*, József Attila: *Ars poetica*
+		- költészet lényegével, céljaival foglalkoznak -> **költői hitvallás** megfogalmazása
+		- *Verlaine: Költészettan, József Attila: Ars poetica*
 # Dráma:
 - a külvilág az ábrázolás középpontja
-- nem meséli -> megjeleníti a cselekményt
-- dialógusok és monológok alkotját
-- fontos eleme a konfliktus
-- hőse: drámai hős -> 1-2 fontos tulajdonsága jelenik meg
-- felvonásokra, jelenetekre tagolódik
-- hármas egység szabály (antik és klasszikus dármák):
-	- tér -> 1 helyszín
-	- idő -> 1-2 nap alatt
-	- cselekmény -> 1 szálon fut
+- nem meséli -> **megjeleníti a cselekményt**
+- **dialógusok és monológok** alkotják
+- fontos eleme a **konfliktus**
+- hőse: **drámai hős** -> 1-2 fontos tulajdonsága jelenik meg
+- **felvonásokra, jelenetekre** tagolódik
+- **hármas egység szabálya** (antik és klasszikus drámák):
+	- **tér**: 1 helyszín
+	- **idő**: 1-2 nap alatt
+	- **cselekmény**: 1 szálon fut
+- szerkezete:
+	1. alapszituáció, expozíció
+	2. bonyodalom / konfliktus
+	3. kibontakozás / késleltetés
+	4. tetőpont
+	5. végkifejlet (tragédia / megoldás)
 - **Drámai műfajok:**
     - **Tragédia:**
-        - cselekménye tragikus végkimenetelű konfliktust hoz
-        - a hős részvétet kelt az olvasóban -> erkölcsi felemelkedés
-        - a hős az átlagból kiemelkedő személy
-        - pl.: *Szophoklész*, *Shakespeare*, *Schiller*
+        - cselekménye **tragikus végkimenetelű konfliktust** hoz
+        - a hős **részvétet kelt az olvasóban** -> erkölcsi felemelkedés
+        - a hős az **átlagból kiemelkedő személy**
+        - *Szophoklész, Shakespeare, Schiller*
     - **Komédia:**
-        - vígjáték
-        - Kisszerű emberek, kicsinyes tulajdonságok összeütközését adja -> nevetséges
-        - pl.:* Moliére*, *Shakespeare*
+        - **vígjáték**
+        - **kisszerű emberek, kicsinyes tulajdonságok összeütközését** adja -> nevetséges
+        - *Moliére, Shakespeare*
     - **Tragikomédia:**
-        - tragédia és a komédia tulajdonságait egyesíti -> a hős tragédiája komédiával zárul
-        - pl.: Ibsen: *A vadkacsa*, Örkény István: *Tóték*, *Macskajáték*
+        - **tragédia és a komédia tulajdonságait egyesíti** -> a hős tragédiája **komédiával zárul**
+        - *Ibsen: A vadkacsa, Örkény István: Tóték, Macskajáték*
