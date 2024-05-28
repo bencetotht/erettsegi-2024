@@ -525,10 +525,10 @@
 # 21. Térelemek távolsága és szöge
 ### Térelemek illeszkedése, párhuzamossága, szöge, távolsága
 - alapfogalmak: pont, egyenes, sík
-- D: illeszkedő, párhuzamos (egyenes, sík), félegyenes, szög, illeszkedő vagy párhuzamos térelemek szöge, két egyenes hajlásszöge, kitérő egyenesek, egyenes és sík hajlásszöge, két sík hajlásszöge, illeszkedő vagy metsző térelemek távolsága, két pont távolsága, pont és egyenes távolsága, pont és sík távolsága, párhuzamos egyenesek távolsága, kitérő egyenesek távolsága, egyenes és vele párhuzamos sík távolsága, két párhuzamos sík távolsága
+- **D: illeszkedő térelem, párhuzamos (egyenes, sík), félegyenes, szög, illeszkedő vagy párhuzamos térelemek szöge, két egyenes hajlásszöge, kitérő egyenesek, két kitérő egyenes hajlásszöge, egyenes és sík hajlásszöge, két sík hajlásszöge, illeszkedő vagy metsző térelemek távolsága, két pont távolsága, pont és egyenes távolsága, pont és sík távolsága, párhuzamos egyenesek távolsága, kitérő egyenesek távolsága, egyenes és vele párhuzamos sík távolsága, két párhuzamos sík távolsága**
 > T: síkra merőleges egyenesek tétele
 ### Térbeli alakzatok
-- D: test, poliéderek, szabályos testek, hengerszerű testek. hasáb, henger, ferde hengerszerű test; kúpszerű testek: gúla, kúp, csonkakúpszerű testek: csonkagúla, csonkakúp; gömbfelület
+- **D: test, poliéderek, szabályos testek, hengerszerű testek: hasáb, henger, ferde hengerszerű test; kúpszerű testek: gúla, kúp, csonkakúpszerű testek: csonkagúla, csonkakúp; gömbfelület**
 ### Testek felszíne
 - poliéderek felszíne
 - poliéderektől különböző testek felszíne
@@ -548,3 +548,95 @@
 ### Jelentősége
 - Eukleidész: Elemek: hasábok, gúlák, gömb térfogata
 - Heron: területek, térfogatok
+# 22. Területszámítás elemi úton és az integrálszámítás felhasználásával
+### Területszámítás
+- **D: mérés, terület, tulajdonságai**
+### Síkidomok területe
+> T: téglalap, paralelogramma, háromszög területei, trapéz, sokszög területe, négyszög területe, deltoid területe, szabályos sokszög területe, kör területe
+### Határozott integrál
+- **D: görbe alatti terület**
+- szerkesztése: intervallum felosztása, alsó és felső határ, be és körülírt sokszög területe, alsó és felső közelítő összeg
+- **D: határozott integrál**
+### Görbe alatti terület
+> T: x tengely és függvény által közrezárt síkidom területe, két függvény által közrezárt síkidom területe
+### Alkalmazások
+- geometriai valószínűség: terület számítása
+- kör területe
+- felszínek meghatározása
+### Jelentősége
+- Hippokratész: egyenes és körívek közötti terület
+- Riemann: integrálás
+- Leibniz-Newton: differenciál és integrálszámítás
+# 23. Kombinációk
+### Kombinációk
+- kombinatorika
+- **D: ismétlés nélküli kombináció, ismétléses kombináció**
+> T: ismétlés nélküli kombinációk száma, ismétléses kombináció száma
+### Binomiális tétel
+> T: (a+b) n-ediken
+- tulajdonságai (0!, kiválasztani=otthagyni)
+- pascal háromszög
+### Események
+- valószínűség számítás
+- **D: véletlen jelenségek, kísérlet, elemi események, eseménytér, esemény, biztos / lehetetlen esemény**
+- műveletek:
+	- **D: esemény komplementere, összege, szorzata, egymást kizárják**
+### Valószínűség-számítás alapjai
+- **D: esemény relatív gyakorisága, esemény valószínűsége, valószínűség képlete**
+- axiómák: 0<p<1, biztos / lehetetlen esemény, egymást kizáró események, tetszőleges esemény, komplementer
+- **D: feltételes valószínűség -> egymástól független, geometriai valószínűség**
+### Diszkrét eloszlások
+- **D: valószínűségi változó, diszkrét valószínűségi változó, hipergeometrikus eloszlás**
+### Alkalmazások
+- kiválasztási problémák
+- szerencsejáték nyerési esély
+### Jelentősége
+- Pascal: háromszöge
+- Leibniz rendszerezte a kombinatorikai ismereteket
+# 24. Permutációk, variációk
+- kombinatorika
+### Permutációk
+- D: ismétlés nélküli permutáció, ismétléses permutáció
+> T: ismétlés nélküli permutáció száma, ismétléses permutáció száma
+### Variációk
+ - D: ismétlés nélküli variáció, ismétléses variáció
+> T: ismétlés nélküli variáció száma, ismétléses variáció száma
+### Valószínűségszámítás alapjai
+- valószínűség számítás
+- **D: véletlen jelenségek, kísérlet, elemi események, eseménytér, esemény, biztos / lehetetlen esemény**
+- **D: esemény relatív gyakorisága, esemény valószínűsége, valószínűség képlete**
+- axiómák: 0<p<1, biztos / lehetetlen esemény, egymást kizáró események, tetszőleges esemény, komplementer
+- **D: feltételes valószínűség -> egymástól független, geometriai valószínűség**
+- **D: valószínűségi változó, diszkrét valószínűségi változó, binomiális eloszlás**
+### Valószínűségszámítás geometriai modellje
+- D: geometriai valószínűség
+### Alkalmazások
+- tótószelvény
+- sorsolások, versenyek eredményeinek lehetséges sorrendje
+- mintavétel minőség-ellenőrzés során
+- kvantumfizikában geometriai eloszlás
+### Jelentősége
+- Pascal: binomiális együtthatók tanulmányozása, Pascal-háromszög
+- Leibniz: kombinatorikai ismeretek rendszerezése
+- Bernoulli: valószínűségelmélet
+# 25. Bizonyítási módszerek és bemutatásuk tételek bizonyításában
+### Bizonyítások a matematikában
+- alapfogalmak, fogalmak
+- alaptételek (axiómák)
+- tételek (főleg implikációk, ekvivalenciák)
+### Direkt bizonyítás
+- állításból jutunk el a bizonyítandóig
+- főleg geometriai, algebrai tételek
+> Pitagorasz-tétel
+### Indirekt bizonyítás
+- feltesszük hogy a bizonyítandó állítás nem igaz, így lehetetlen következményekhez jutunk
+- logikai törvényeken alapul (igaz/hamis, igaz állítás tagadása hamis)
+> Pitagorasz-tétel megfordítása
+### Teljes indukció
+- olyan állításokra, amelyek n pozitív egész számtól függnek
+- n=1re, feltételezzük hogy igaz n=kra, majd n=n+1
+- egész számokkal kapcsolatos problémák, oszthatósági szabályok, tételek bizonyítása
+> első n pozitív szám összege
+### Bizonyítás skatulyaelvvel
+- n skatulyába n-nél több elemet kell szétosztani, akkor valamelyikébe legalább 2 kerül
+> n+1 pozitív egész szám, biztos van kettő, amelynek különbsége osztható n-nel
