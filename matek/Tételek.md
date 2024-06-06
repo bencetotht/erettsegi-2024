@@ -1,25 +1,24 @@
 # 1. Halmazok, halmazműveletek. Nevezetes ponthalmazok a síkban és a térben
 ### Alapok
 - halmaz és a halmaz eleme alapfogalom, ezeket a kifejezéseket nem definiáljuk
-- halmaz megadásának szigorú követelménye
+- halmaz megadása
 - halmazok jelölése
 - halmazok megadási módjai:
 	- elemek felsorolása, egyértelműen meghatározó utasítás, szimbólumok, Venn-diagram
 - **D: két halmaz egyenlősége, üres halmaz, részhalmaz / valódi részhalmaz**
+- tulajdonságok
 > T: Az n elemű halmaz összes részhalmazainak száma
 ### Halmazműveletek
-- alaphalmaz, komplementer, unió, metszet, diszjunkt, különbség, Descartes-féle szorzat
+- **D: alaphalmaz, komplementer, unió, metszet, diszjunkt, különbség, Descartes-féle szorzat**
 - Tulajdonságok:
 	- kommutatív (felcserélhető), asszociatív (csoportosítható), disztributív (széttagolható)
 	- De-Morgan azonosságok, további azonosságok
 ### Nevezetes ponthalmazok
-- kör, gömb
-- párhuzamos egyenesek, hengerfelület
-- szakasz felezőmerőleges egyenese / síkja
-- szögfelező egyenesek
-- parabola, elipszis, hiperbola
+- **D: kör, gömb, párhuzamos egyenesek, hengerfelület, szakasz felezőmerőleges egyenese / síkja, középpárhuzamos egyenes, szögfelező egyenesek, parabola**
+- **D: elipszis, hiperbola**
 > T: A háromszög három oldalfelező merõlegese egy pontban metszi egymást
 > T: A háromszög oldalfelező merõlegeseinek metszéspontja a háromszög köré írt kör középpontja
+- **D: látókörív**
 ### Alkalmazások
 - biológia, rendszertan: vércsoportok
 - Európa országai nyelv alapján csoportokba
@@ -30,9 +29,8 @@
 - halmazelmélet megteremtése Cantor (1845–1918) német matematikushoz fűződik
 # 2. Racionális és irracionális számok
 ### Számhalmazok
-- természetes számok, egész számok, racionális számok, irracionális számok
-- **D: racionális és az irracionális számok halmaza diszjunkt halmazok**
-> T: GYÖK2 irracionális szám
+- **D: természetes számok, egész számok, racionális számok, irracionális számok, valós számok**
+> T: gyök2 irracionális szám
 ### Műveletek racionális számok halmazán
 - ha közönséges tört alakúak
 - összeadás, kivonás, szorzás, osztás
@@ -61,18 +59,19 @@
 # 3. Oszthatóság, oszthatósági szabályok és tételek
 ### Oszthatóság
 - alaphalmaz, egész szám / 0 maradék
-- **D: osztó**
+- **D: osztó, osztható, többszörös**
 - 0 szerepe
 - oszthatósági tételek (1|a, a|a)
 > T: a|b, b|c -> a|c 
-> T: a|b, -> a|bc
-> T: a|b, a|c -> a|b+-c
+> T: a|b -> a|bc
+> T: a|b, a|c -> a|b+/-c
 > T: a|b, a|b+c -> a|c
 > T: két pozitív egész szám egymásnak osztója, akkor a két szám egyenlő
 - oszthatósági szabályok
 ### Prímszám, összetett szám, számelmélet alaptétele, osztók száma
-- **D: prímszám, összetett szám, relatív prím, LNKO, LKKT**
-> T: végtelen sok prímszám, n szám osztóinak száma, számelmélet alaptétele
+- **D: prímszám, összetett szám, LNKO, LKKT, relatív prím**
+> T: végtelen sok prímszám
+> T: számelmélet alaptétele, n szám osztóinak száma
 ### Számrendszerek
 - **D: a alapú számrendszer, helyi értékes ábrázolás**
 - átváltás
@@ -89,10 +88,12 @@
 ### A matematikai logika fogalma
 ### Logikai műveletek
 - **D: állítás, logikai érték, összetett kijelentések, logikai műveletek, igazságtábla, tagadás**
-> T: kettős tagadás, ellentmondásmentesség, harmadik kizárásának elve
+> T: kettős tagadás, ellentmondás mentesség, harmadik kizárásának elve
 - **D: logikai egyenlőség, diszjunkció, konjunkció, implikáció, ekvivalencia**
 - tulajdonságai (felcserélhetőség, csoportosítható, széttagolható, De-Morgan, további)
 ### Állítás megfordítása, szükséges és elégséges feltétel
+- szükséges, elégséges feltétel, helyes / helytelen következtetés, szükséges és elégséges feltétel
+- állítás megfordítása
 > T: Thalész-tétel
 ### Alkalmazások
 - matematikai definíciók, tételek kimondása, bizonyítása
@@ -124,7 +125,7 @@
 - prímtényezős felbontás
 - számrendszerek felépítése
 - kamatos kamat
-- pitagorasz tétel
+- Pitagorasz tétel
 - magasság, befogó tétel
 ### Jelentősége
 - régóta ismerték kínai matematikusok a négyzetgyök és köbgyök fogalmát
@@ -153,7 +154,7 @@
 ### Egyenlet, egyenlet gyöke
 - **D: egyenlet, alaphalmaz, értelmezési tartomány, megoldás / gyök, megoldáshalmaz, azonosság**
 ### Másodfokú egyenlet
-- **D: másodfokú egy ismeretlenes egyenlet, diszkrimináns**
+- **D: másodfokú egyismeretlenes egyenlet, diszkrimináns**
 > T: megoldóképlete, gyöktényezős alak, Viéte-formulák
 - grafikus megoldás
 ### Másodfokú egyenlőtlenségek
@@ -181,13 +182,13 @@
 - Abel norvég matematikus: bebizonyította, hogy általános ötöd+ fokú egyenletekre nincs univerzális megoldóképlet
 # 8. A leíró statisztika jellemzői, diagramok
 ### Adatsokaságok jellemzői
-- **D: adatsokaság**
+- **D: adatsokaság, változó, statisztikai adat, sokaság mérete**
 ### Leíró statisztika jellemzői
 - tömegesen előforduló jelenségekkel, a jelenségekből nyert adatok vizsgálatával, elemzésével (leírásával) foglalkozik
 - nagy egyed szám mellett részhalmaztól veszünk mintát
 - reprezentatív mintavételnél törekedni kell arra, hogy a vizsgált tulajdonság előfordulása a mintában közelítse a sokaságban való előfordulását (pl. közvélemény-kutatás)
 - véletlenszerű mintavételnél a sokaság elemei egyenlő valószínűséggel kerülnek a mintába (pl. urnából húzás)
-- **D: gyakoriság**
+- **D: gyakoriság, relatív gyakoriság**
 - táblázat: áttekinthetőség, tömör (pl gyakorisági)
 - nagy mennyiségnél osztályokba lehet sorolni a közel azonos gyakoriságú adatokat
 ### Diagramok
@@ -226,7 +227,7 @@
 	> T: konvergens sorozatok tulajdonságai
 ### Számtani sorozat
 - **D: számtani sorozat, differencia**
-> T: számtani sorozat n. tagja, számtani sorozat első n tagjának összege
+> T: számtani sorozat n. tagja, számtani sorozat első n tagjának összege, elem számtani közepe
 ### Alkalmazások
 - Fibonacci-sorozat
 - analízis
@@ -320,7 +321,7 @@
 - **D: háromszög hozzáírt köre**
 > T: külső és belső szögfelező merőleges egymásra
 ### Magasságvonalak
-- **D: háromszög magassága**
+- **D: háromszög magassága, magasságvonala**
 > T: magasságpont
 ### Súlyvonalak
 - **D: súlyvonal**
@@ -340,8 +341,8 @@
 - Feuerbach
 # 14. Összefüggések az általános háromszögek oldalai között, szögei között, oldalai és szögei között
 ### Háromszögek csoportosítása szögeik és oldalaik szerint
-- **D: háromszög, szabályos, egyenlő szárú**
 - **D: hegyesszögű, derékszögű, tompaszögű**
+- **D: háromszög, szabályos, egyenlő szárú**
 ### Összefüggések háromszög oldalai között
 > T: háromszög-egyenlőtlenség, Pitagorasz-tétel
 ### Összefüggések háromszög szögei között
@@ -368,7 +369,7 @@
 ### Szimmetria
 - **D: tengelyesen szimmetrikus (pl egyenlő szárú háromszögek), középpontosan szimmetrikus (pl téglalap, négyzet), forgásszimmetrikus (pl szabályos sokszögek, kör)**
 ### Alakzatok hasonlósága
-- **D: hasonlóságai transzformáció**
+- **D: középpontos hasonlósági transzformáció, hasonlóságai transzformáció**
 - **D: két hasonló alakzat, két hasonló háromszög, két hasonló sokszög**
 > T: kerület ~ hasonlóság, terület ~ hasonlóság^2, felszín ~ hasonlóság^2, térfogat ~ hasonlóság^3
 ### Hasonlóság alkalmazása síkgeometriai tételek bizonyításában
@@ -406,7 +407,7 @@
 > páratlan fokszámú pontok halmaza páros
 - **D: összefüggő gráf, teljes gráf**
 > T: teljes gráf éleinek száma, fokszámok összege
-- **D: út, vonal, kör, nyílt / zárt euler-vonal, izomorf, fagráf**
+- **D: út, vonal (zárt / nyílt), kör, nyílt / zárt euler-vonal, izomorf, fagráf**
 > T: fagráf maximális körmentes gráf
 > minimálisan összefüggő gráf
 > két csúcsot egyetlen út
@@ -423,23 +424,23 @@
 - Kőnig Dénes: gráfelmélet
 # 17. A kör és részei
 ### Kör és részei
-- D: kör, zárt / nyílt körlap, húr, szelő, átmérő
+- **D: kör, zárt / nyílt körlap, húr, szelő, átmérő**
 > T: a kör tengelyesen, forgás, középpontosan szimmetrikus
-- D: körcikk, körszelet, koncentrikus körök, körgyűrű, középponti szög
+- **D: körcikk, körszelet, koncentrikus körök, körgyűrű, középponti szög**
 > T: középponti szögek ~ ívek hossza, körcikkek területe
 > körcikk területe, ív hossza, körgyűrű területe, körszelet területe
 ### Középponti és kerületi szögek
-- D: középponti szög, kerületi szög
+- **D: középponti szög, kerületi szög**
 > T: középponti és kerületi szögek tétele, kerületi szögek tétele
-- D: látószög, látókörív
+- **D: látószög, látókörív**
 ### Húrnégyszög
-- D: húrnégyszög
+- **D: húrnégyszög**
 > T: húrnégyszög szemközti szögeinek összege
 > húrnégyszög-tétel
 > húrnégyszög a húrtrapéz, téglalap, négyzet; paralelogramma csak akkor, ha téglalap
 > Heron-képlet
 ### Érintőnégyszögek
-- D: érintőnégyszögek
+- **D: érintőnégyszögek**
 > T: szemközti oldalak összege egyenlő
 > érintőnégyszögek: deltoid, rombusz, négyzet; paralelogramma csak akkor, ha rombusz
 > érintőnégyszög területe
@@ -468,6 +469,7 @@
 - **D: két vektor szöge, skaláris szorzata (kommutatív, disztributív)**
 > T: skaláris szorzat 0, skaláris szorzat koordinátákkal
 ### Alkalmazások
+- bizonyításban
 - szögfüggvények
 - fizikában vektormennyiségek
 - koordináta-geometria
@@ -492,10 +494,14 @@
 > minden lineáris függvény képe egyenes
 ### Elsőfokú egyenlőtlenségek grafikus megoldása
 - **D: elsőfokú egyismeretlenes egyenlőtlenségek, kétismeretlenes**
+- elsőfokú egyenletrendszerek grafikus megoldása
 ### Alkalmazások
 - kétismeretlenes egyenlőtlenségrendszer megoldása
+- lineáris programozás
 - elemi geometriai problémák egyszerűbb megoldása
+- egyenletes mozgások idő-út grafikonja
 ### Jelentősége
+- Appolóniusz
 - Ptolemaiosz: Föld egy pontja helyének meghatározása
 - Descartes: koordináta-rendszer, koordináta-geometria
 # 20. A kör és a parabola elemi úton és a koordinátasíkon
@@ -516,6 +522,8 @@
 - **D: egyenlőtlenség, másodfokú**
 - megoldási módszerek: mérlegelv, grafikus
 ### Alkalmazások
+- koordináta-geometria: matematikai feladatmegoldás
+- parabola antenna
 - kör területének meghatározása integrálással
 - szélsőérték feladatok
 ### Jelentősége
@@ -574,8 +582,8 @@
 > T: ismétlés nélküli kombinációk száma, ismétléses kombináció száma
 ### Binomiális tétel
 > T: (a+b) n-ediken
-- tulajdonságai (0!, kiválasztani=otthagyni)
-- pascal háromszög
+- tulajdonságai (0!, kiválasztani=otthagyni), következménye
+- Pascal háromszög
 ### Események
 - valószínűség számítás
 - **D: véletlen jelenségek, kísérlet, elemi események, eseménytér, esemény, biztos / lehetetlen esemény**
@@ -591,25 +599,26 @@
 - kiválasztási problémák
 - szerencsejáték nyerési esély
 ### Jelentősége
-- Pascal: háromszöge
+- Pascal: háromszöge = binomiális együtthatók vizsgálata
 - Leibniz rendszerezte a kombinatorikai ismereteket
+- Bernoulli: valószínűség számítás
 # 24. Permutációk, variációk
 - kombinatorika
 ### Permutációk
-- D: ismétlés nélküli permutáció, ismétléses permutáció
+- **D: ismétlés nélküli permutáció, ismétléses permutáció**
 > T: ismétlés nélküli permutáció száma, ismétléses permutáció száma
 ### Variációk
- - D: ismétlés nélküli variáció, ismétléses variáció
+ - **D: ismétlés nélküli variáció, ismétléses variáció**
 > T: ismétlés nélküli variáció száma, ismétléses variáció száma
 ### Valószínűségszámítás alapjai
 - valószínűség számítás
 - **D: véletlen jelenségek, kísérlet, elemi események, eseménytér, esemény, biztos / lehetetlen esemény**
 - **D: esemény relatív gyakorisága, esemény valószínűsége, valószínűség képlete**
 - axiómák: 0<p<1, biztos / lehetetlen esemény, egymást kizáró események, tetszőleges esemény, komplementer
-- **D: feltételes valószínűség -> egymástól független, geometriai valószínűség**
+- **D: feltételes valószínűség -> egymástól független**
 - **D: valószínűségi változó, diszkrét valószínűségi változó, binomiális eloszlás**
 ### Valószínűségszámítás geometriai modellje
-- D: geometriai valószínűség
+- **D: geometriai valószínűség**
 ### Alkalmazások
 - tótószelvény
 - sorsolások, versenyek eredményeinek lehetséges sorrendje
@@ -640,3 +649,7 @@
 ### Bizonyítás skatulyaelvvel
 - n skatulyába n-nél több elemet kell szétosztani, akkor valamelyikébe legalább 2 kerül
 > n+1 pozitív egész szám, biztos van kettő, amelynek különbsége osztható n-nel
+### Jelentősége
+- Hippokratész: félholdakkal foglalkozó munkájánál a tételeket logikai módon, más tételekből vezették le
+- Maurolico: teljes indukció első írásos emléke
+- Dirichlet: skatulyaelv

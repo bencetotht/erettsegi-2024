@@ -3,7 +3,7 @@
 2. Az emberi kommunikáció nem nyelvi formái (pl. gesztusok, mimika, térközszabályozás, tekintet, külső megielenés, csend)
 ### A MAGYAR NYELV TÖRTÉNETE
 3. ﻿﻿﻿A magyar nyelv eredete, finnugor rokonságának bemutatása
-4. ﻿﻿﻿A magyar nyelv történetének fö korszakai
+4. ﻿﻿﻿A magyar nyelv történetének fő korszakai
 5. ﻿﻿﻿A nyelvtörténet forrásai: kézirásos és nyomtatott nyelvemlékek
 ### EMBER ES NYELVHASZNÁLAT
 6.﻿﻿A nyelv mint jelrendszer
