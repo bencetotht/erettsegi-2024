@@ -620,7 +620,7 @@
 ### Valószínűségszámítás geometriai modellje
 - **D: geometriai valószínűség**
 ### Alkalmazások
-- tótószelvény
+- totószelvény
 - sorsolások, versenyek eredményeinek lehetséges sorrendje
 - mintavétel minőség-ellenőrzés során
 - kvantumfizikában geometriai eloszlás
