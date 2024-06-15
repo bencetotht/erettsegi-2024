@@ -4,3 +4,4 @@
 .Archive/
 .obsidian/*
 *.json
+.obsidian/workspace.json
