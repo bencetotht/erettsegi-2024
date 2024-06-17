@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/14. Áprily Lajos költészete.md",
+                "file": "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irodalom/14. Áprily Lajos költészete.md",
+                "file": "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irodalom/14. Áprily Lajos költészete.md",
+                "file": "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irodalom/14. Áprily Lajos költészete.md"
+                "file": "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md"
               }
             }
           }
@@ -148,18 +149,18 @@
   },
   "active": "2992269262abf25f",
   "lastOpenFiles": [
-    "irodalom/1. Vörösmarty Mihály kései költészete.md",
+    "irodalom/16. Horatius ódái.md",
+    "irodalom/15. Grecsó Krisztián novellisztikája.md",
     "irodalom/14. Áprily Lajos költészete.md",
+    "irodalom/1. Vörösmarty Mihály kései költészete.md",
     "irodalom/13. Márai Sándor lírája.md",
     "irodalom/3. Arany János balladái.md",
-    "irodalom/15. Grecsó Krisztián novellisztikája.md",
     "irodalom/12. Radnóti Miklós - halálba vezető út.md",
     "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
     "irodalom/6. Ady Endre Ugar-versei.md",
     "irodalom/10. József Attila kései költészete.md",
     "irodalom/Kötelező olvasmányok.md",
     "irodalom/2. Petőfi Sándor forradalmi költészete.md",
-    "irodalom/16. Horatius ódái.md",
     "történelem/13. Politika és gazdaság - Bethleni konszolidáció.md",
     "Tételek - Irodalom.md",
     "irodalom/Irodalmi műnemek és műfajok.md",
