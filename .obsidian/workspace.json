@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "60fbc789cc81d980",
+        "id": "d531c1bbf35793ff",
         "type": "tabs",
         "children": [
           {
-            "id": "2992269262abf25f",
+            "id": "296924b9510f049e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md",
+                "file": "Tételek - Nyelvtan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a18218a4c7d8074a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "irodalom/11. Balassi Bálint szerelmi versei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d3f7ab83c5c96b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nyelvtan/1. A kommunikációs folyamat tényezői és funkciói.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d7c09b5e638988e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "történelem/1. Vegyesegyházi királyok kora - Károly Róbert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md",
+                "file": "irodalom/11. Balassi Bálint szerelmi versei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md",
+                "file": "irodalom/11. Balassi Bálint szerelmi versei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md"
+                "file": "irodalom/11. Balassi Bálint szerelmi versei.md"
               }
             }
           }
@@ -147,34 +183,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2992269262abf25f",
+  "active": "a18218a4c7d8074a",
   "lastOpenFiles": [
-    "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md",
-    "irodalom/20. Berzsenyi Dániel elégiaköltészete.md",
-    "irodalom/19. Madách Imre - Az ember tragédiája.md",
-    "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md",
-    "irodalom/16. Horatius ódái.md",
-    "irodalom/15. Grecsó Krisztián novellisztikája.md",
-    "irodalom/14. Áprily Lajos költészete.md",
-    "irodalom/1. Vörösmarty Mihály kései költészete.md",
-    "irodalom/13. Márai Sándor lírája.md",
-    "irodalom/3. Arany János balladái.md",
-    "irodalom/12. Radnóti Miklós - halálba vezető út.md",
-    "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
-    "irodalom/6. Ady Endre Ugar-versei.md",
-    "irodalom/10. József Attila kései költészete.md",
-    "irodalom/Kötelező olvasmányok.md",
-    "irodalom/2. Petőfi Sándor forradalmi költészete.md",
-    "történelem/13. Politika és gazdaság - Bethleni konszolidáció.md",
-    "Tételek - Irodalom.md",
-    "irodalom/Irodalmi műnemek és műfajok.md",
-    "irodalom/4. Jókai Mór - Az arany ember.md",
-    "irodalom/Irodalmi stílusok.md",
-    "irodalom/5. Mikszáth Kálmán novellái.md",
+    "Tételek - Nyelvtan.md",
+    "nyelvtan/16. ﻿﻿﻿﻿A retorika mint a meggyőzés művelete a gondolatközlésben.md",
+    "nyelvtan/15. A szövegköztiség, intertextualitás jelenségeinek értelmezése irodalmi és nem irodalmi szövegekben.md",
+    "nyelvtan/14. ﻿﻿﻿﻿A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok.md",
+    "nyelvtan/13. ﻿﻿﻿﻿A szöveg szerkezete - felépítése és egységei.md",
     "Tételek - Történelem.md",
+    "nyelvtan/12. A modalitás, a mondatfajták elemzése grammatikai és szemantikai eszközökkel.md",
+    "nyelvtan/11. A szószerkezet fogalma, a szintagmák típusai, szerepük a mondat felépítésében, mondatbeli viszonyaik.md",
+    "nyelvtan/10. A morfémák, szóelemek szerepe és helyes használata a szóalak felépítésében, a szószerkezet alkotásában.md",
+    "irodalom/11. Balassi Bálint szerelmi versei.md",
+    "irodalom/10. József Attila kései költészete.md",
+    "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
+    "irodalom/19. Madách Imre - Az ember tragédiája.md",
+    "irodalom/8. Babits Mihály - Jónás könyve.md",
+    "nyelvtan/1. A kommunikációs folyamat tényezői és funkciói.md",
+    "nyelvtan/5.  ﻿﻿﻿A nyelvtörténet forrásai - kézirásos és nyomtatott nyelvemlékek.md",
+    "nyelvtan/2. Az emberi kommunikáció nem nyelvi formái.md",
+    "nyelvtan/4. A magyar nyelv történetének fő korszakai.md",
+    "nyelvtan/9. A hangkapcsolódási szabályosságok típusai és a helyesírás összefüggései.md",
+    "nyelvtan/6. A nyelv mint jelrendszer.md",
+    "irodalom/7. Herczeg Ferenc - Az élet kapuja.md",
+    "irodalom/4. Jókai Mór - Az arany ember.md",
+    "irodalom/3. Arany János balladái.md",
+    "irodalom/2. Petőfi Sándor forradalmi költészete.md",
+    "irodalom/1. Vörösmarty Mihály kései költészete.md",
     "történelem/1. Vegyesegyházi királyok kora - Károly Róbert.md",
-    "történelem/16. Kommunizmus.md",
-    "történelem/2. Földrajzi felfedezések, következményeik.md",
+    "images",
+    "images/Pasted image 20240606220316.png",
+    "nyelvtan",
+    "matek",
     "erettsegi-2024",
     "Untitled.canvas",
     "történelem",
