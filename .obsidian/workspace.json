@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md",
+                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 556.5,
+    "collapsed": true
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md",
+                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md",
+                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md"
+                "file": "irodalom/19. Madách Imre - Az ember tragédiája.md"
               }
             }
           }
@@ -148,10 +149,11 @@
   },
   "active": "2992269262abf25f",
   "lastOpenFiles": [
-    "irodalom/19. Madách Imre - Az ember tragédiája.md",
     "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md",
-    "irodalom/16. Horatius ódái.md",
+    "irodalom/20. Berzsenyi Dániel elégiaköltészete.md",
+    "irodalom/19. Madách Imre - Az ember tragédiája.md",
     "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md",
+    "irodalom/16. Horatius ódái.md",
     "irodalom/15. Grecsó Krisztián novellisztikája.md",
     "irodalom/14. Áprily Lajos költészete.md",
     "irodalom/1. Vörösmarty Mihály kései költészete.md",
@@ -173,7 +175,6 @@
     "történelem/1. Vegyesegyházi királyok kora - Károly Róbert.md",
     "történelem/16. Kommunizmus.md",
     "történelem/2. Földrajzi felfedezések, következményeik.md",
-    "történelem/15. Nemzetszocializmus.md",
     "erettsegi-2024",
     "Untitled.canvas",
     "történelem",
