@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "nyelvtan/1. A kommunikációs folyamat tényezői és funkciói.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 556.5,
+    "collapsed": true
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -149,11 +150,12 @@
   "active": "2992269262abf25f",
   "lastOpenFiles": [
     "nyelvtan/2. Az emberi kommunikáció nem nyelvi formái.md",
+    "images/Pasted image 20240606220316.png",
+    "nyelvtan/1. A kommunikációs folyamat tényezői és funkciói.md",
     "nyelvtan/11. A szószerkezet fogalma, a szintagmák típusai, szerepük a mondat felépítésében, mondatbeli viszonyaik.md",
     "nyelvtan/10. A morfémák, szóelemek szerepe és helyes használata a szóalak felépítésében, a szószerkezet alkotásában.md",
     "nyelvtan/8. Nyelvünk helyzete a határon túl.md",
     "nyelvtan/9. A hangkapcsolódási szabályosságok típusai és a helyesírás összefüggései.md",
-    "nyelvtan/1. A kommunikációs folyamat tényezői és funkciói.md",
     "irodalom/20. Berzsenyi Dániel elégiaköltészete.md",
     "nyelvtan/16. ﻿﻿﻿﻿A retorika mint a meggyőzés művelete a gondolatközlésben.md",
     "nyelvtan/15. A szövegköztiség, intertextualitás jelenségeinek értelmezése irodalmi és nem irodalmi szövegekben.md",
@@ -173,7 +175,6 @@
     "irodalom/19. Madách Imre - Az ember tragédiája.md",
     "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md",
     "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md",
-    "irodalom/16. Horatius ódái.md",
     "erettsegi-2024",
     "Untitled.canvas",
     "történelem",
