@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md",
+                "file": "történelem/10. Holokauszt - zsidóság helyzete a Horthy korszakban, Magyarországon.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 556.5,
+    "collapsed": true
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md",
+                "file": "történelem/10. Holokauszt - zsidóság helyzete a Horthy korszakban, Magyarországon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md",
+                "file": "történelem/10. Holokauszt - zsidóság helyzete a Horthy korszakban, Magyarországon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md"
+                "file": "történelem/10. Holokauszt - zsidóság helyzete a Horthy korszakban, Magyarországon.md"
               }
             }
           }
@@ -148,9 +149,10 @@
   },
   "active": "e1970a473a7f363e",
   "lastOpenFiles": [
+    "történelem/11. Felvilágosodás államelmélete, angol alkotmányos monarchia működése.md",
+    "történelem/5. Magyarország a Habsburg Birodalomban.md",
     "történelem/REGI-Ipari forradalom második hulláma, Magyarország.md",
     "történelem/12. 1848-49es forradalom és szabadságharc.md",
-    "történelem/11. Felvilágosodás államelmélete, angol alkotmányos monarchia működése.md",
     "történelem/10. Holokauszt - zsidóság helyzete a Horthy korszakban, Magyarországon.md",
     "történelem/9. Párizs környéki békék - Trianon.md",
     "Tételek - Történelem.md",
@@ -161,7 +163,6 @@
     "nyelvtan/2. Az emberi kommunikáció nem nyelvi formái.md",
     "nyelvtan/1. A kommunikációs folyamat tényezői és funkciói.md",
     "történelem/2. Földrajzi felfedezések, következményeik.md",
-    "történelem/5. Magyarország a Habsburg Birodalomban.md",
     "images/Pasted image 20240606220316.png",
     "nyelvtan/11. A szószerkezet fogalma, a szintagmák típusai, szerepük a mondat felépítésében, mondatbeli viszonyaik.md",
     "nyelvtan/10. A morfémák, szóelemek szerepe és helyes használata a szóalak felépítésében, a szószerkezet alkotásában.md",
