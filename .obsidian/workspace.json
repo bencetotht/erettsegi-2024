@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2992269262abf25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "történelem/8. Reformkor - Széchenyi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1970a473a7f363e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tételek - Történelem.md",
-                "mode": "preview",
+                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5,
-    "collapsed": true
+    "width": 556.5
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "történelem/8. Reformkor - Széchenyi.md",
+                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "történelem/8. Reformkor - Széchenyi.md",
+                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "történelem/8. Reformkor - Széchenyi.md"
+                "file": "történelem/5. Magyarország a Habsburg Birodalomban.md"
               }
             }
           }
@@ -159,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2992269262abf25f",
+  "active": "e1970a473a7f363e",
   "lastOpenFiles": [
-    "történelem/7. Kommunista diktatúra - Rákosi korszak mindennapjai.md",
+    "történelem/REGI-Ipari forradalom második hulláma, Magyarország.md",
+    "történelem/12. 1848-49es forradalom és szabadságharc.md",
+    "történelem/11. Felvilágosodás államelmélete, angol alkotmányos monarchia működése.md",
+    "történelem/10. Holokauszt - zsidóság helyzete a Horthy korszakban, Magyarországon.md",
+    "történelem/9. Párizs környéki békék - Trianon.md",
     "Tételek - Történelem.md",
+    "történelem/8. Reformkor - Széchenyi.md",
+    "történelem/7. Kommunista diktatúra - Rákosi korszak mindennapjai.md",
     "történelem/6. Társadalom és életmód - két világháború közötti oktatás és kultúrapolitika.md",
     "nyelvtan/3. A magyar nyelv eredete, finnugor rokonságának bemutatása.md",
     "nyelvtan/2. Az emberi kommunikáció nem nyelvi formái.md",
@@ -182,12 +175,6 @@
     "nyelvtan/12. A modalitás, a mondatfajták elemzése grammatikai és szemantikai eszközökkel.md",
     "irodalom/3. Arany János balladái.md",
     "irodalom/4. Jókai Mór - Az arany ember.md",
-    "irodalom/5. Mikszáth Kálmán novellái.md",
-    "irodalom/6. Ady Endre Ugar-versei.md",
-    "irodalom/8. Babits Mihály - Jónás könyve.md",
-    "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
-    "irodalom/12. Radnóti Miklós - halálba vezető út.md",
-    "irodalom/13. Márai Sándor lírája.md",
     "erettsegi-2024",
     "Untitled.canvas",
     "történelem",
