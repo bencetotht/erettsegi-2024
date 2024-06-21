@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nyelvtan/19. A társalgási stílus ismérvei, minősége.md",
-                "mode": "source",
+                "file": "történelem/18. Az első világháború.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nyelvtan/19. A társalgási stílus ismérvei, minősége.md",
+                "file": "történelem/18. Az első világháború.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nyelvtan/19. A társalgási stílus ismérvei, minősége.md",
+                "file": "történelem/18. Az első világháború.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nyelvtan/19. A társalgási stílus ismérvei, minősége.md"
+                "file": "történelem/18. Az első világháború.md"
               }
             }
           }
@@ -160,18 +161,22 @@
   },
   "active": "343c95456f2f6418",
   "lastOpenFiles": [
-    "nyelvtan/18. ﻿﻿﻿﻿Az egyszerűbb szóképek köznyelvi és szépirodalmi szövegekben - hasonlat, metafora, metonímia.md",
-    "irodalom/7. Herczeg Ferenc - Az élet kapuja.md",
+    "történelem/19. Nemzetközi együttműködés, globális világ - EU.md",
+    "történelem/20. Hidegháború kora.md",
+    "történelem/18. Az első világháború.md",
+    "történelem/17. Keresztény államalapítás, Árpád-kor, tatárjárás.md",
+    "nyelvtan/20. Az interneten megjelenő szövegek olvasásának sajátosságai.md",
     "nyelvtan/19. A társalgási stílus ismérvei, minősége.md",
+    "nyelvtan/18. ﻿﻿﻿﻿Az egyszerűbb szóképek köznyelvi és szépirodalmi szövegekben - hasonlat, metafora, metonímia.md",
+    "nyelvtan/17. ﻿﻿﻿﻿A kulturált véleménynyilvánítás és vita gyakorlata.md",
+    "nyelvtan/16. ﻿﻿﻿﻿A retorika mint a meggyőzés művelete a gondolatközlésben.md",
+    "irodalom/7. Herczeg Ferenc - Az élet kapuja.md",
     "Untitled",
     "Tételek - Nyelvtan.md",
     "irodalom/4. Jókai Mór - Az arany ember.md",
     "irodalom/3. Arany János balladái.md",
     "irodalom/2. Petőfi Sándor forradalmi költészete.md",
     "irodalom/1. Vörösmarty Mihály kései költészete.md",
-    "nyelvtan/20. Az interneten megjelenő szövegek olvasásának sajátosságai.md",
-    "nyelvtan/17. ﻿﻿﻿﻿A kulturált véleménynyilvánítás és vita gyakorlata.md",
-    "nyelvtan/16. ﻿﻿﻿﻿A retorika mint a meggyőzés művelete a gondolatközlésben.md",
     "nyelvtan/15. A szövegköztiség, intertextualitás jelenségeinek értelmezése irodalmi és nem irodalmi szövegekben.md",
     "nyelvtan/14. ﻿﻿﻿﻿A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok.md",
     "nyelvtan/13. ﻿﻿﻿﻿A szöveg szerkezete - felépítése és egységei.md",
@@ -183,10 +188,6 @@
     "nyelvtan/6. A nyelv mint jelrendszer.md",
     "nyelvtan/1. A kommunikációs folyamat tényezői és funkciói.md",
     "nyelvtan/2. Az emberi kommunikáció nem nyelvi formái.md",
-    "nyelvtan/10. A morfémák, szóelemek szerepe és helyes használata a szóalak felépítésében, a szószerkezet alkotásában.md",
-    "nyelvtan/9. A hangkapcsolódási szabályosságok típusai és a helyesírás összefüggései.md",
-    "nyelvtan/8. Nyelvünk helyzete a határon túl.md",
-    "nyelvtan/7. A nyelvváltozatok rendszere, a nyelv vízszintes tagolódása.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "images/Pasted image 20240606220316.png",
