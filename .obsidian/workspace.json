@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/4. Jókai Mór - Az arany ember.md",
+                "file": "irodalom/6. Ady Endre Ugar-versei.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irodalom/4. Jókai Mór - Az arany ember.md",
+                "file": "irodalom/6. Ady Endre Ugar-versei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irodalom/4. Jókai Mór - Az arany ember.md",
+                "file": "irodalom/6. Ady Endre Ugar-versei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irodalom/4. Jókai Mór - Az arany ember.md"
+                "file": "irodalom/6. Ady Endre Ugar-versei.md"
               }
             }
           }
@@ -161,7 +160,11 @@
   },
   "active": "343c95456f2f6418",
   "lastOpenFiles": [
+    "irodalom/5. Mikszáth Kálmán novellái.md",
+    "irodalom/4. Jókai Mór - Az arany ember.md",
     "irodalom/3. Arany János balladái.md",
+    "irodalom/2. Petőfi Sándor forradalmi költészete.md",
+    "irodalom/6. Ady Endre Ugar-versei.md",
     "irodalom/1. Vörösmarty Mihály kései költészete.md",
     "irodalom/Irodalmi műnemek és műfajok.md",
     "irodalom/20. Berzsenyi Dániel elégiaköltészete.md",
@@ -174,10 +177,6 @@
     "irodalom/13. Márai Sándor lírája.md",
     "irodalom/8. Babits Mihály - Jónás könyve.md",
     "irodalom/7. Herczeg Ferenc - Az élet kapuja.md",
-    "irodalom/6. Ady Endre Ugar-versei.md",
-    "irodalom/5. Mikszáth Kálmán novellái.md",
-    "irodalom/4. Jókai Mór - Az arany ember.md",
-    "irodalom/2. Petőfi Sándor forradalmi költészete.md",
     "irodalom/12. Radnóti Miklós - halálba vezető út.md",
     "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
     "történelem/20. Hidegháború kora.md",
