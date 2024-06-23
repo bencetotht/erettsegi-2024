@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "0d231f6bf6847ebc",
+        "id": "d531c1bbf35793ff",
         "type": "tabs",
         "children": [
           {
-            "id": "343c95456f2f6418",
+            "id": "296924b9510f049e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/6. Ady Endre Ugar-versei.md",
-                "mode": "preview",
+                "file": "Tételek - Nyelvtan.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d8cb8399344cd38",
+            "id": "a18218a4c7d8074a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irodalom/7. Herczeg Ferenc - Az élet kapuja.md",
+                "file": "irodalom/20. Berzsenyi Dániel elégiaköltészete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d3f7ab83c5c96b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nyelvtan/20. Az interneten megjelenő szövegek olvasásának sajátosságai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d7c09b5e638988e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "történelem/4. Középkori városok.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 300
   },
   "right": {
     "id": "b06d703782a3144c",
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irodalom/6. Ady Endre Ugar-versei.md",
+                "file": "történelem/4. Középkori városok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irodalom/6. Ady Endre Ugar-versei.md",
+                "file": "történelem/4. Középkori városok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irodalom/6. Ady Endre Ugar-versei.md"
+                "file": "történelem/4. Középkori városok.md"
               }
             }
           }
@@ -158,39 +183,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "343c95456f2f6418",
+  "active": "1d7c09b5e638988e",
   "lastOpenFiles": [
-    "irodalom/5. Mikszáth Kálmán novellái.md",
-    "irodalom/4. Jókai Mór - Az arany ember.md",
-    "irodalom/3. Arany János balladái.md",
-    "irodalom/2. Petőfi Sándor forradalmi költészete.md",
-    "irodalom/6. Ady Endre Ugar-versei.md",
-    "irodalom/1. Vörösmarty Mihály kései költészete.md",
-    "irodalom/Irodalmi műnemek és műfajok.md",
-    "irodalom/20. Berzsenyi Dániel elégiaköltészete.md",
-    "irodalom/19. Madách Imre - Az ember tragédiája.md",
-    "irodalom/18. A konfliktusos dráma bemutatása - Szophoklész - Antigoné.md",
-    "irodalom/17. Változások a XX. századi prózairodalomban (Franz Kafka - Az átváltozás).md",
-    "irodalom/16. Horatius ódái.md",
-    "irodalom/15. Grecsó Krisztián novellisztikája.md",
-    "irodalom/14. Áprily Lajos költészete.md",
-    "irodalom/13. Márai Sándor lírája.md",
-    "irodalom/8. Babits Mihály - Jónás könyve.md",
-    "irodalom/7. Herczeg Ferenc - Az élet kapuja.md",
-    "irodalom/12. Radnóti Miklós - halálba vezető út.md",
-    "irodalom/9. Kosztolányi Dezső - Édes Anna.md",
+    "történelem/5. Magyarország a Habsburg Birodalomban.md",
+    "történelem/4. Középkori városok.md",
+    "történelem/6. Társadalom és életmód - két világháború közötti oktatás és kultúrapolitika.md",
+    "történelem/3. Ipari forradalom második hulláma, Magyarország.md",
+    "történelem/2. Földrajzi felfedezések, következményeik.md",
+    "történelem/1. Vegyesegyházi királyok kora - Károly Róbert.md",
     "történelem/20. Hidegháború kora.md",
     "történelem/19. Nemzetközi együttműködés, globális világ - EU.md",
     "történelem/18. Az első világháború.md",
     "történelem/17. Keresztény államalapítás, Árpád-kor, tatárjárás.md",
+    "történelem/16. Kommunizmus.md",
+    "történelem/15. Nemzetszocializmus.md",
+    "történelem/14. Reformáció és katolikus megújulás Európában.md",
+    "történelem/13. Politika és gazdaság - Bethleni konszolidáció.md",
+    "történelem/12. 1848-49es forradalom és szabadságharc.md",
+    "történelem/11. Felvilágosodás államelmélete, angol alkotmányos monarchia működése.md",
+    "történelem/10. Holokauszt - zsidóság helyzete a Horthy korszakban, Magyarországon.md",
+    "történelem/9. Párizs környéki békék - Trianon.md",
+    "történelem/8. Reformkor - Széchenyi.md",
+    "történelem/7. Kommunista diktatúra - Rákosi korszak mindennapjai.md",
     "nyelvtan/20. Az interneten megjelenő szövegek olvasásának sajátosságai.md",
     "nyelvtan/19. A társalgási stílus ismérvei, minősége.md",
     "nyelvtan/18. ﻿﻿﻿﻿Az egyszerűbb szóképek köznyelvi és szépirodalmi szövegekben - hasonlat, metafora, metonímia.md",
-    "Untitled",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "nyelvtan/17. ﻿﻿﻿﻿A kulturált véleménynyilvánítás és vita gyakorlata.md",
+    "nyelvtan/16. ﻿﻿﻿﻿A retorika mint a meggyőzés művelete a gondolatközlésben.md",
+    "nyelvtan/15. A szövegköztiség, intertextualitás jelenségeinek értelmezése irodalmi és nem irodalmi szövegekben.md",
+    "images",
     "images/Pasted image 20240606220316.png",
+    "nyelvtan",
+    "matek",
     "erettsegi-2024",
+    "Untitled.canvas",
     "történelem",
     "matek",
     "nyelvtan",
